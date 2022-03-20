@@ -1,0 +1,52 @@
+  div.box {
+  width: 100%;
+  border: 1px solid black;
+}
+  div.box {
+  width: 100%;
+  border: 1px solid black;
+}
+
+  div.box3 {
+  border: 1px solid ;
+}
+
+  div.boxs {
+  width: 80%;
+  height:40px;
+  border: 1px solid black;
+  color:blue;
+}
+
+div.box3{
+  border: 1px solid #e9ecef;
+}
+.chat{
+
+
+}
+
+
+div.box3{
+  border: 1px solid #e9ecef;
+
+}
+
+
+.button {
+  background-color:#DC7633;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.icon{
+  font-size: 25px;
+}
+
